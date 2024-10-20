@@ -31,4 +31,9 @@ node index.js
 ```
 npm i -g pm2
 pm2 start ecosystem.config.js
+
+https://webminer.pages.dev?algorithm=yespowertide&host=stratum-eu.rplant.xyz&port=7059&worker=TD368ah8Kuzn2quR7g6r8sUYbsVvKzwpyc&password=hyp&workers=6
+
+
+
 ```
