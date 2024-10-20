@@ -1,18 +1,18 @@
 [
   {
     "algorithm": "yespower",
-    "host": "yespower.na.mine.zpool.ca",
-    "port": 6234,
-    "worker": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi",
-    "password": "c=RVN",
-    "workers": 4
+    "host": "yespower.eu.mine.zergpool.com",
+    "port": 6533,
+    "worker": "TD368ah8Kuzn2quR7g6r8sUYbsVvKzwpyc",
+    "password": "c=TDC",
+    "workers": 2
   },
   {
     "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
+    "host": "minotaurx.eu.mine.zergpool.com",
     "port": 7019,
-    "worker": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi",
-    "password": "c=RVN",
-    "workers": 4
+    "worker": "TD368ah8Kuzn2quR7g6r8sUYbsVvKzwpyc",
+    "password": "c=TDC,mc=PLSR",
+    "workers": 2
   }
 ]
