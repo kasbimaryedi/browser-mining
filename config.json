@@ -8,11 +8,11 @@
     "workers": 2
   },
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.eu.mine.zergpool.com",
-    "port": 7019,
+    "algorithm": "yespower",
+    "host": "yespower.eu.mine.zergpool.com",
+    "port": 6533,
     "worker": "TD368ah8Kuzn2quR7g6r8sUYbsVvKzwpyc",
-    "password": "c=TDC,mc=PLSR",
+    "password": "c=TDC",
     "workers": 2
   }
 ]
